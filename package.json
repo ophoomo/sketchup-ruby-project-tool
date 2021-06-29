@@ -1,0 +1,12 @@
+{
+  "name": "rubyproject",
+  "version": "1.0.0",
+  "description": "ruby project tools",
+  "scripts": {
+	"dev": "ruby ./tools/dev.rb",
+    "build": "ruby ./tools/build.rb",
+	"clear": "ruby ./tools/clear.rb"
+  },
+  "author": "BaanSketchup",
+  "license": "ISC"
+}
